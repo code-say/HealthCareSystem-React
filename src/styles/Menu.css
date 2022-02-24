@@ -1,0 +1,30 @@
+.logo {
+  display: grid;
+  /* background-color: #ffffff; */
+  grid-column: 2/3;
+  justify-content: start;
+  align-items: center;
+  text-decoration: none;
+  padding-right: 25px;
+}
+
+.header__logo {
+  color: aliceblue;
+  text-decoration: none;
+}
+
+.main-nav {
+  display: flex;
+  padding-left: 15px;
+  /* margin-right: 25px; */
+  /* display: grid;
+  grid-template-columns: 10rem 1fr 2fr 1fr 10rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px,
+    rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+  text-decoration: none; */
+}
+
+.head__logo {
+  font-size: x-large;
+  text-shadow: yellow;
+}

@@ -1,0 +1,30 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  background: #343a40;
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+
+.main-nav {
+  position: fixed;
+}
+
+.lead {
+  color: white;
+}
+
+.carousel-item {
+  height: 50rem;
+  /* background: #777;
+  color: white; */
+}
